@@ -20,7 +20,7 @@
             "atomType": "Input",
             "name": "Profile",
             "x": 0.013333333333333334,
-            "y": 0.5064102564102564,
+            "y": 0.34935897435897434,
             "uniqueID": 525166,
             "ioValues": []
         },
@@ -46,9 +46,18 @@
             "atomType": "Input",
             "name": "Number of Teeth",
             "x": 0.013333333333333334,
-            "y": 0.7435897435897436,
+            "y": 0.7051282051282051,
             "uniqueID": 477376,
             "ioValues": []
+        },
+        {
+            "atomType": "Readme",
+            "name": "README",
+            "x": 0.24140211640211642,
+            "y": 0.7467948717948718,
+            "uniqueID": 164540,
+            "ioValues": [],
+            "readmeText": "This lets you create gears of a variety of profiles. The 'Number of Teeth' input determines the number of teeth while the 'Profile' input selects the type of belt the pulley is for. Profiles: 1=MXL 2=40DP 3=XL 4=H 5=T2.5 6=T5 7=T10 8=AT5 9=HTD_3mm 10=HTD_5mm 11=HTD_8mm 12=GT2_2mm 13=GT2_3mm 14=GT2_5mm"
         },
         {
             "atomType": "Output",
